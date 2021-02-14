@@ -1,3 +1,6 @@
 [deps]
 Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
